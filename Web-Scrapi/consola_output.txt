@@ -1,7 +1,7 @@
 Elemento no encontrado dentro del tiempo esperado.
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script src="https://connect.facebook.net/signals/config/2103395723274233?v=2.9.176&amp;r=stable&amp;domain=www.todopuebla.com&amp;hme=872f04a0547459b3285cb03b0d7a47bfde40628f4b386809918a621e2688602f&amp;ex_m=70%2C121%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C172%2C175%2C187%2C183%2C184%2C186%2C29%2C101%2C53%2C77%2C185%2C167%2C170%2C180%2C181%2C188%2C131%2C41%2C189%2C190%2C34%2C143%2C15%2C50%2C195%2C194%2C133%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C168%2C171%2C140%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script><script src="https://connect.facebook.net/en_US/all.js?hash=a09782291bc97e20afb00876783094c6" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-SDMHJ1ZB93&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-T3M8SE43DT&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-GR8PXVW5P8&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script src="https://connect.facebook.net/signals/config/2103395723274233?v=2.9.176&amp;r=stable&amp;domain=www.todopuebla.com&amp;hme=872f04a0547459b3285cb03b0d7a47bfde40628f4b386809918a621e2688602f&amp;ex_m=70%2C121%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C172%2C175%2C187%2C183%2C184%2C186%2C29%2C101%2C53%2C77%2C185%2C167%2C170%2C180%2C181%2C188%2C131%2C41%2C189%2C190%2C34%2C143%2C15%2C50%2C195%2C194%2C133%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C168%2C171%2C140%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script><script src="https://connect.facebook.net/en_US/all.js?hash=7346a21ee1019d11cfe5ac4bfa8c04b2" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-GR8PXVW5P8&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-132197410-1&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
 <!-- Google tag (gtag.js) -->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NM9R5J4"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WFD5SJ93"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-T3M8SE43DT" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NM9R5J4"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-T3M8SE43DT&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-SDMHJ1ZB93&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WFD5SJ93"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-T3M8SE43DT" type="text/javascript"></script>
 <script type="text/javascript">
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -18,8 +18,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <title id="layout_page_title">TP: Eventos en Puebla - TODOPUEBLA.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<link rel="canonical" href="https://www.todopuebla.com/eventos">
-	          <link rel="next" href="https://www.todopuebla.com/eventos?ext=html&amp;page=2">
-     <meta name="Keywords" content="calendario, cartelera, eventos, agenda, cultural, espectaculos, congresos, tallers, cursos, musica, deporte, empresarial, exposicion, feria, teatro, concierto, niños, ccu, siglo xxi, superboletos, ticketmaster, taquillacero, auditorio, complejo, universitario, buap, puebla, cholula">
+			 <link rel="prev" href="https://www.todopuebla.com/eventos?ext=html&amp;page=1">
+                 <link rel="next" href="https://www.todopuebla.com/eventos?ext=html&amp;page=3">
+		 <meta name="Keywords" content="calendario, cartelera, eventos, agenda, cultural, espectaculos, congresos, tallers, cursos, musica, deporte, empresarial, exposicion, feria, teatro, concierto, niños, ccu, siglo xxi, superboletos, ticketmaster, taquillacero, auditorio, complejo, universitario, buap, puebla, cholula">
 <meta name="description" content="Calendario de eventos: conciertos, deportes, teatro, espectáculos, congresos, eventos empresariales, para niños y más. Opina y agrega tus favoritos al calendario.">
 
 <meta http-equiv="Content-Language" content="ES">
@@ -96,9 +97,9 @@ success:function(msg)
 
 <div class="headContainer" id="scrollToHere">
 <div class="w932 fleft">
-  <h1 class="logo"><a href="/"><img alt="todopuebla.com" src="/images/todopuebla_logo.svg?imgrand=1731001521" width="227" height="78"><!--<img src="//dld73rc7kvi9r.cloudfront.net/images/todo_logo.jpg" alt="todopuebla.com" />--></a></h1>
+  <h1 class="logo"><a href="/"><img alt="todopuebla.com" src="/images/todopuebla_logo.svg?imgrand=1731004786" width="227" height="78"><!--<img src="//dld73rc7kvi9r.cloudfront.net/images/todo_logo.jpg" alt="todopuebla.com" />--></a></h1>
   
-  <div class="paeInfo" style="margin:7px -6px 0 0px;"><span class="paeInfspace">Jue 7 Nov 11:45 AM</span><span class="paeInfspace">985 visitantes/hr</span><span class="paeInfspace">0 usuarios</span></div>
+  <div class="paeInfo" style="margin:7px -6px 0 0px;"><span class="paeInfspace">Jue 7 Nov 12:39 PM</span><span class="paeInfspace">985 visitantes/hr</span><span class="paeInfspace">2 usuarios</span></div>
 
       <div class="roundTopContainer">
 	 <div class="mid">
@@ -165,7 +166,7 @@ fbjsheaderconnect = function() {
                         var gender = fbdata.gender;
                         //alert(first_name);
 
-                        var redirecturi = 'L2V2ZW50b3M=';
+                        var redirecturi = 'L2V2ZW50b3M/ZXh0PWh0bWwmcGFnZT0y';
                         //alert(first_name);
 
                         values = "fb_id=" + fb_id + "&name=" + name + "&email=" + email + '&loc=' + loc+ '&redirecturi=' + redirecturi;
@@ -372,12 +373,14 @@ function MM_swapImage() { //v3.0
 
 <div style="width:532px; margin:0 auto 0 5px; text-align:center;" class="pageinationCnt">
 <div class="fleft">
-<div class="pagi_arr_lft"></div></div>
-<div class="fleft paginationText"> 1 a 20 de 209
+<a href="?ext=html&amp;page=1" style="text-decoration: none;">
+<div class="pagi_arr_lft"></div></a>
+</div>
+<div class="fleft paginationText"> 21 a 40 de 209
 </div>
 <div class="fleft"> 
 	
-<a href="?ext=html&amp;page=2" style="text-decoration: none;">
+<a href="?ext=html&amp;page=3" style="text-decoration: none;">
 <div class="pagi_arr_rigt"></div></a>
 </div>
 </div>
@@ -389,7 +392,7 @@ function MM_swapImage() { //v3.0
 <div class="bodyNavcontainer">
 <div class="posi_rel">
 <ul class="bodyMenuNew">
-<li class="first"><a class="active" href="/eventos"><span>Lista completa</span></a></li>
+<li class="first"><a class="active" href="/eventos?ext=html&amp;page=2"><span>Lista completa</span></a></li>
 <li class="last" style="border-radius:0 4px 0 0; border-right:1px solid #D2D2D2;border-radius:4px 4px 0 0 "><a class="" href="/eventos/actividades//"><span>Actividades de fans</span></a></li>
 </ul>
 <div class="fright empresas"><a href="/aviso_cultura">Agrega o promueve tu evento</a></div>
@@ -404,7 +407,7 @@ function MM_swapImage() { //v3.0
 </div>
 </div>
 <div class="clear"></div>
-<form name="showlongform" method="post" action="/eventos">
+<form name="showlongform" method="post" action="/eventos?ext=html&amp;page=2">
 <div class="fright" style="font-size:12px; color:#666; line-height:16px;">
 <input type="hidden" name="actualshowlongones" id="actualshowlongones" value="no">
 <input name="showlongones" id="showlongones" type="checkbox" value="yes" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:checklong(this);"> Mostrar <strong>51</strong> eventos repetitivos que duran muchos días
@@ -507,7 +510,7 @@ function MM_swapImage() { //v3.0
 <li class=""><a href="/eventos/fecha/past">Eventos pasados<span>&nbsp;11931</span></a></li>
 </ul>
 
-<div id="datepicker" style="margin: 2px; display: block;" class="hasDatepicker">&nbsp;<div class="ui-datepicker-inline ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"><div class="ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all"><a class="ui-datepicker-prev ui-corner-all" onclick="DP_jQuery_1731002020871.datepicker._adjustDate('#datepicker', -1, 'M');" title=""><span class="ui-icon ui-icon-circle-triangle-w"></span></a><a class="ui-datepicker-next ui-corner-all" onclick="DP_jQuery_1731002020871.datepicker._adjustDate('#datepicker', +1, 'M');" title=""><span class="ui-icon ui-icon-circle-triangle-e"></span></a><div class="ui-datepicker-title"><span class="ui-datepicker-month">nov</span>&nbsp;<span class="ui-datepicker-year">2024</span></div></div><table class="ui-datepicker-calendar"><thead><tr><th class="ui-datepicker-week-end"><span title="Domingo">Do</span></th><th><span title="Lunes">Lu</span></th><th><span title="Martes">Ma</span></th><th><span title="Miércoles">Mi</span></th><th><span title="Jueves">Ju</span></th><th><span title="Viernes">Vi</span></th><th class="ui-datepicker-week-end"><span title="Sábado">Sa</span></th></tr></thead><tbody><tr><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">1</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">2</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">3</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">4</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">5</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">6</a></td><td class=" ui-datepicker-days-cell-over  ui-state-active ui-datepicker-current-day ui-datepicker-today" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default ui-state-highlight ui-state-active ui-state-hover" href="#">7</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">8</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">9</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">10</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">11</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">12</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">13</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">14</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">15</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">16</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">17</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">18</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">19</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">20</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">21</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">22</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">23</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">24</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">25</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">26</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">27</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">28</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">29</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731002020871.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">30</a></td></tr></tbody></table></div></div>
+<div id="datepicker" style="margin: 2px; display: block;" class="hasDatepicker">&nbsp;<div class="ui-datepicker-inline ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"><div class="ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all"><a class="ui-datepicker-prev ui-corner-all" onclick="DP_jQuery_1731005286746.datepicker._adjustDate('#datepicker', -1, 'M');" title=""><span class="ui-icon ui-icon-circle-triangle-w"></span></a><a class="ui-datepicker-next ui-corner-all" onclick="DP_jQuery_1731005286746.datepicker._adjustDate('#datepicker', +1, 'M');" title=""><span class="ui-icon ui-icon-circle-triangle-e"></span></a><div class="ui-datepicker-title"><span class="ui-datepicker-month">nov</span>&nbsp;<span class="ui-datepicker-year">2024</span></div></div><table class="ui-datepicker-calendar"><thead><tr><th class="ui-datepicker-week-end"><span title="Domingo">Do</span></th><th><span title="Lunes">Lu</span></th><th><span title="Martes">Ma</span></th><th><span title="Miércoles">Mi</span></th><th><span title="Jueves">Ju</span></th><th><span title="Viernes">Vi</span></th><th class="ui-datepicker-week-end"><span title="Sábado">Sa</span></th></tr></thead><tbody><tr><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">1</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">2</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">3</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">4</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">5</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">6</a></td><td class=" ui-datepicker-days-cell-over  ui-state-active ui-datepicker-current-day ui-datepicker-today" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default ui-state-highlight ui-state-active ui-state-hover" href="#">7</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">8</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">9</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">10</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">11</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">12</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">13</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">14</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">15</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">16</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">17</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">18</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">19</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">20</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">21</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">22</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">23</a></td></tr><tr><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">24</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">25</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">26</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">27</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">28</a></td><td class="  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">29</a></td><td class=" ui-datepicker-week-end  ui-state-active" onclick="DP_jQuery_1731005286746.datepicker._selectDay('#datepicker',10,2024, this);return false;"><a class="ui-state-default" href="#">30</a></td></tr></tbody></table></div></div>
 <input type="hidden" name="data[spanishdatepickerdate]" id="spanishdatepickerdate" value=""><div class="clear"></div>
 </div>
 <div class="clear"></div>
@@ -1675,17 +1678,17 @@ Rock y Pop</span>
 </a>
 </div>
 <div class="logoRowone_scl logo_scl_space">              
-<a href="/directorio/pueblablog" title="Puebla Blog">
+<a href="/directorio/idiainstitutodedesarrollointeligenciayautoestima" title="IDIA - Instituto de Desarrollo, Inteligencia y Autoestima">
 <div class="global_imgCnt" style="width:170px;"> 
-<img src="/companyimage/banner/large/xvga_banner-4885713071587407095.png" alt="Puebla Blog" width="169px" height="70px">
+<img src="/companyimage/banner/large/xvga_banner-10603322511625504960.jpg" alt="IDIA - Instituto de Desarrollo, Inteligencia y Autoestima" width="169px" height="70px">
 
 </div>
 </a>
 </div>
 <div class="logoRowone_scl ">              
-<a href="/directorio/acuariomichin" title="Acuario Michin Puebla">
+<a href="/directorio/todopuebla" title="TODOPUEBLA.com">
 <div class="global_imgCnt" style="width:170px;"> 
-<img src="/companyimage/banner/large/xvga_banner-7962815251640102024.jpg" alt="Acuario Michin Puebla" width="169px" height="70px">
+<img src="/companyimage/banner/large/xvga_banner-17142263361587406994.png" alt="TODOPUEBLA.com" width="169px" height="70px">
 
 </div>
 </a>
@@ -1734,9 +1737,9 @@ Nuevos / cambios
 
 <div class="getiFltr_cnt" style="display:block; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">2 de 10 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Viernes 08 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -1749,32 +1752,39 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/valledecatrinasenatlixcopuebla" title="Festival Valle de Catrinas en Atlixco">
+<a href="/eventos/metamorfeameenpuebla" title="Metamorfeame en Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-9407314081665031944.jpg
-" alt="Festival Valle de Catrinas en Atlixco" width="110px" height="110px"> 
+<img src="/eventoimage/poster/110x110/banner-10663313931713804154.png
+
+
+
+
+
+
+" alt="Metamorfeame en Puebla" width="110px" height="110px"> 
 </a>
 
 
 </div>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
-<h3 style="width: 409px;font-size: 13px;">   
-<a href="/eventos/valledecatrinasenatlixcopuebla" title="Festival Valle de Catrinas en Atlixco">                    
-Festival Valle de Catrinas en Atlixco</a>
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/metamorfeameenpuebla" title="Metamorfeame en Puebla">                    
+Metamorfeame en Puebla</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Eventos sociales</span>
+Alternativo y Latino</span>
 
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Artistas locales realizan esculturas gigantes que acompañarán a los visitantes en su recorrido por el Pueblo Mágico. La temporada de Día de Muertos se acerca y con ella el Valle de Catrinas dándole continuidad a la reactivación.</p>
+Podrás disfrutar de un show único, de gran calidad y con un setlist que reúne lo mejor de estas icónicas agrupaciones del rock mexicano:
+Jaguares Y Caifanes. ¡No te lo pierdas!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- todo el día + fechas	
+	     Vie 08 NOV
+ 21:00	
 	      
 	      	
 		
@@ -1782,13 +1792,13 @@ Artistas locales realizan esculturas gigantes que acompañarán a los visitantes
 	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
 		  <p style="width: 100%;float: left;padding-left:0px;">
 		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/atlixcopueblomagico">Atlixco - Pueblo Mágico</a> </span>
+	      			 <span style="padding-right: 5px;"><a href="/directorio/studio803">Beat 803</a> </span>
 					  <span style="font-style: italic;">
-		  Atlixco y Metepec				</span>
+		  Centro Histórico				</span>
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 325</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 51</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -1813,9 +1823,9 @@ Artistas locales realizan esculturas gigantes que acompañarán a los visitantes
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">2 de 10 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Viernes 08 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -1828,16 +1838,16 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/seminarioenneurocienciasparaprofesionalesdelasaludenpuebla" title="Seminario En Neurociencias Para Profesionales De La Salud en Puebla">
+<a href="/eventos/pandemoniopodcastenpuebla" title="Pandemonio Podcast en Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-8097523251729626602.png
+<img src="/eventoimage/poster/110x110/banner-17352202281724099556.png
 
 
 
 
 
 
-" alt="Seminario En Neurociencias Para Profesionales De La Salud en Puebla" width="110px" height="110px"> 
+" alt="Pandemonio Podcast en Puebla" width="110px" height="110px"> 
 </a>
 
 
@@ -1845,21 +1855,106 @@ Jueves 07 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/seminarioenneurocienciasparaprofesionalesdelasaludenpuebla" title="Seminario En Neurociencias Para Profesionales De La Salud en Puebla">                    
-Seminario En Neurociencias Para Profesionales De La Salud en Puebla</a>
+<a href="/eventos/pandemoniopodcastenpuebla" title="Pandemonio Podcast en Puebla">                    
+Pandemonio Podcast en Puebla</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Congresos y seminarios</span>
+Comedia</span>
 
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Este seminario explorará la conexión profunda entre el cerebro y la mente, y cómo este conocimiento puede mejorar la práctica clínica.</p>
+Ven a disfrutar de este stand-up/podcast que tenemos preparado para ti en Puebla. ¡Te esperamos!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 10:00-19:00 + fechas	
+	     Vie 08 NOV
+ 21:00	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/salaforum">Sala Forum Espacio Polivalente</a> </span>
+					  <span style="font-style: italic;">
+		  Cholula				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 53</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:block; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/npcmexicannationalchampionshipsenpuebla" title="NPC Mexican National Championships en Puebla ">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-4877657981730242039.png
+
+
+
+
+
+
+" alt="NPC Mexican National Championships en Puebla " width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/npcmexicannationalchampionshipsenpuebla" title="NPC Mexican National Championships en Puebla ">                    
+NPC Mexican National Championships en Puebla </a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Deportes varios</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+NPC Mexican National Championships es un evento regional y ProQualifier avalado por la NPC Worldwide. Abierto a todo atleta ciudadano y residente mexicano. Los ganadores absolutos de las categorías abiertas obtendrán su tarjeta profesional de la...</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 09:00 + fechas	
 	      
 	      	
 		
@@ -1873,7 +1968,7 @@ Este seminario explorará la conexión profunda entre el cerebro y la mente, y c
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 102</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 54</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -1898,9 +1993,9 @@ Este seminario explorará la conexión profunda entre el cerebro y la mente, y c
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -1913,16 +2008,16 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/tallerderebozoartesanalmexicano" title="Taller de Rebozo Artesanal Mexicano">
+<a href="/eventos/expoakaipuebla" title="Expo Akai - Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-3505435151730767293.jpg
+<img src="/eventoimage/poster/110x110/banner-7522845401724886139.jpg
 
 
 
 
 
 
-" alt="Taller de Rebozo Artesanal Mexicano" width="110px" height="110px"> 
+" alt="Expo Akai - Puebla" width="110px" height="110px"> 
 </a>
 
 
@@ -1930,8 +2025,93 @@ Jueves 07 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/tallerderebozoartesanalmexicano" title="Taller de Rebozo Artesanal Mexicano">                    
-Taller de Rebozo Artesanal Mexicano</a>
+<a href="/eventos/expoakaipuebla" title="Expo Akai - Puebla">                    
+Expo Akai - Puebla</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Otras exposiciones</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+Expo Akai somos tu convención cultural y de entretenimiento, que te espera este 9 Y 10 DE NOVEMBRE 2024 en el corazón de la ciudad siendo el Centro de Convenciones Puebla, quien recibirá la 18 va. Edición de Expo Akai de halloween. ¡Te...</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 11:00-20:00 + fechas	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/centrodeconvenciones">Centro de Convenciones Puebla William...</a> </span>
+					  <span style="font-style: italic;">
+		  Centro Histórico				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 67</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/tallerdefiligrana" title="Taller de Filigrana">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-12617497971730938796.jpg
+
+
+
+
+
+
+" alt="Taller de Filigrana" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/tallerdefiligrana" title="Taller de Filigrana">                    
+Taller de Filigrana</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
@@ -1940,11 +2120,436 @@ Talleres y manualidades</span>
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Ven y crea un rebozo único y hecho a mano! Únete a nosotros el 5, 7, 12 y 14 de noviembre en de 11:00 a 13:00 horas. ¡Te esperamos!</p>
+¿Sabes que es la Filigrana? Descúbrelo de la mano de la Mtra. Aleida Rojas en el taller que tiene para ti. ¡Deja salir tu creatividad!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
+	     Sáb 09 NOV
  11:00 + fechas	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/sanpedromuseodearte">San Pedro Museo de Arte - Museo de Arte...</a> </span>
+					  <span style="font-style: italic;">
+		  Centro Histórico				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 36</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/conferenciaespaciosydisenosmuseograficosparaelartepopular" title="Conferencia: Espacios y Diseños Museográficos Para el Arte Popular">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-613484371730846844.jpg
+
+
+
+
+
+
+" alt="Conferencia: Espacios y Diseños Museográficos Para el Arte Popular" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/conferenciaespaciosydisenosmuseograficosparaelartepopular" title="Conferencia: Espacios y Diseños Museográficos Para el Arte Popular">                    
+Conferencia: Espacios y Diseños Museográficos Para el Arte Popular</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Conferencias y presentaciones</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+Descubre los secretos de la museografía para el arte popular, imparte la Dra. Norma Edith Alonso. ¡Te esperamos!</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 12:00	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/centroculturalsantarosa">Centro Cultural Ex Convento de Santa...</a> </span>
+					  <span style="font-style: italic;">
+		  Centro Histórico				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 62</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/homenajeadosdenosotroslennonyharrisonexposiciontemporal" title="Homenaje a Dos de Nosotros Lennon y Harrison - Exposición Temporal">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-981017071730846054.jpg
+
+
+
+
+
+
+" alt="Homenaje a Dos de Nosotros Lennon y Harrison - Exposición Temporal" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/homenajeadosdenosotroslennonyharrisonexposiciontemporal" title="Homenaje a Dos de Nosotros Lennon y Harrison - Exposición Temporal">                    
+Homenaje a Dos de Nosotros Lennon y Harrison - Exposición Temporal</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Otras exposiciones</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+Celebra el legado de Lennon y Harrison en el Beat Festival. Disfruta de sus mejores momentos en la Fonoteca Vicente Teódulo Mendoza, 9, 16 y 23 de noviembre a las 13:00 h ¡Imperdible!</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 13:00 + fechas	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/fonotecavicenteteodulomendoza">Fonoteca Vicente Teódulo Mendoza</a> </span>
+					  <span style="font-style: italic;">
+		  Fuentes-VW-Finsa				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 36</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/balletfolcloricotlatoani" title="Ballet Folclórico Tlatoani">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-17314101281730846988.jpg
+
+
+
+
+
+
+" alt="Ballet Folclórico Tlatoani" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/balletfolcloricotlatoani" title="Ballet Folclórico Tlatoani">                    
+Ballet Folclórico Tlatoani</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Danza</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+Disfruta de la danza y tradición mexicana con la presentación de la Asociación Juvenil Sueños de Comedia. Te esperamos el 9 de noviembre a las 14:00 horas en el Museo del Ejército y Fuerza Aérea Mexicanos ¡No te lo pierdas!</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 14:00	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/museodelejercitoyfuerzaaereamexicanos">Museo del Ejército y Fuerza Aérea...</a> </span>
+					  <span style="font-style: italic;">
+		  Juárez-La Paz				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 58</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/tallerexlibriscongrabado" title="Taller ex-libris con Grabado">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-11587711731730846372.jpg
+
+
+
+
+
+
+" alt="Taller ex-libris con Grabado" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/tallerexlibriscongrabado" title="Taller ex-libris con Grabado">                    
+Taller ex-libris con Grabado</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Talleres y manualidades</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+Crea tu propio ex - libris y aprende las técnicas de grabado en el Museo Taller Erasto Cortés. Te esperamos el 9 de noviembre de 15:00 a 18:00 ¡No pierdas la oportunidad de llevarte una obra única!</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 15:00	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/museotallererastocortes">Museo Taller Erasto Cortés</a> </span>
+					  <span style="font-style: italic;">
+		  Centro Histórico				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 54</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/tallergalletasrevolucionariasdecoradas" title="Taller Galletas Revolucionarias Decoradas">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-14958051171730846232.jpg
+
+
+
+
+
+
+" alt="Taller Galletas Revolucionarias Decoradas" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/tallergalletasrevolucionariasdecoradas" title="Taller Galletas Revolucionarias Decoradas">                    
+Taller Galletas Revolucionarias Decoradas</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Talleres y manualidades</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+Crea, decora y disfruta de este taller en el Museo Regional de la Revolución Mexicana Casa de los Hermanos Serdán. Te esperamos los días 09, 23 y 30 de noviembre ¡Una sabrosa forma de visitarnos!</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 15:00-17:00 + fechas	
 	      
 	      	
 		
@@ -1955,176 +2560,6 @@ Ven y crea un rebozo único y hecho a mano! Únete a nosotros el 5, 7, 12 y 14 d
 	      			 <span style="padding-right: 5px;"><a href="/directorio/casadeloshermanosserdan">Museo Casa de los Hermanos Serdán...</a> </span>
 					  <span style="font-style: italic;">
 		  Centro Histórico				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 115</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
-<span class="title">               
-Jueves 07 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/conciertoapoteosisenpuebla" title="Concierto Apoteosis en Puebla">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-11198892631730936713.jpg
-
-
-
-
-
-
-" alt="Concierto Apoteosis en Puebla" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/conciertoapoteosisenpuebla" title="Concierto Apoteosis en Puebla">                    
-Concierto Apoteosis en Puebla</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Conciertos varios</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-Rendimos homenaje a la soprano Elisa Ávalos, quien con su voz, su trabajo y su calidad humana nos hizo pasar momento inolvidables en La Capital Imparable. ¡Te esperamos!</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 17:00	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/teatrodelaciudad">Teatro de la Ciudad</a> </span>
-					  <span style="font-style: italic;">
-		  Centro Histórico				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 64</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
-<span class="title">               
-Jueves 07 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/laboratoriodestandup" title="Laboratorio de Stand Up">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-4563514071724360540.jpg
-
-
-
-
-
-
-" alt="Laboratorio de Stand Up" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/laboratoriodestandup" title="Laboratorio de Stand Up">                    
-Laboratorio de Stand Up</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Talleres y manualidades</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-Foro Conde se une a Padre Santo y trae para ti el Laboratorio de Stand Up. ¡No te lo pierdas! ¿Quieres hacer Stand Up? ¡Llegó tu momento!</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 19:00-21:00	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/foroconde">Foro Conde</a> </span>
-					  <span style="font-style: italic;">
-		  Juárez-La Paz				</span>
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
@@ -2153,9 +2588,9 @@ Foro Conde se une a Padre Santo y trae para ti el Laboratorio de Stand Up. ¡No 
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -2168,16 +2603,16 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/lorihenenpuebla" title="Lorihen en Puebla">
+<a href="/eventos/nochedeestrellasinaoe" title="Noche de Estrellas - INAOE">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-14012628681730421166.png
+<img src="/eventoimage/poster/110x110/banner-19052446931730846495.jpg
 
 
 
 
 
 
-" alt="Lorihen en Puebla" width="110px" height="110px"> 
+" alt="Noche de Estrellas - INAOE" width="110px" height="110px"> 
 </a>
 
 
@@ -2185,93 +2620,8 @@ Jueves 07 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/lorihenenpuebla" title="Lorihen en Puebla">                    
-Lorihen en Puebla</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Rock y Pop</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-LÖRIHEN llega por primera vez a MEXICO. La legendaria banda argentina, referente del Hard Rock Latinoamericano formada en 1996, llega por primera vez a tierras mexicanas. ¡Te esperamos!</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 19:00	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/foropuebla">Foro Puebla</a> </span>
-					  <span style="font-style: italic;">
-		  Blvd.Norte-Capu				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 144</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
-<span class="title">               
-Jueves 07 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/nathalymarcusenpuebla" title="Nathaly Marcus en Puebla">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-12667384821723838187.png
-
-
-
-
-
-
-" alt="Nathaly Marcus en Puebla" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="width: 409px;font-size: 13px;">   
-<a href="/eventos/nathalymarcusenpuebla" title="Nathaly Marcus en Puebla">                    
-Nathaly Marcus en Puebla</a>
+<a href="/eventos/nochedeestrellasinaoe" title="Noche de Estrellas - INAOE">                    
+Noche de Estrellas - INAOE</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
@@ -2280,11 +2630,11 @@ Conferencias y presentaciones</span>
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-¿Quieres conocer más sobre la salud hormonal? Asiste a esta conferencia con esta experta en epigenética. ¡Te esperamos!</p>
+Ven a la observación de astros y participa en las diversas actividades. Este 9 de noviembre a las 16:00 h, en el Museo Regional de Cholula ¡No te lo pierdas!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 19:00	
+	     Sáb 09 NOV
+ 16:00	
 	      
 	      	
 		
@@ -2292,98 +2642,13 @@ Conferencias y presentaciones</span>
 	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
 		  <p style="width: 100%;float: left;padding-left:0px;">
 		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/complejoculturaluniversitario">Complejo Cultural Universitario CCU BUAP</a> </span>
-					  <span style="font-style: italic;">
-		  Angelópolis				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 88</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
-<span class="title">               
-Jueves 07 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/chetesenpuebla" title="CANCELADO Chetes en Puebla">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-21267763031730139594.jpg
-
-
-
-
-
-
-" alt="CANCELADO Chetes en Puebla" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/chetesenpuebla" title="CANCELADO Chetes en Puebla">                    
-CANCELADO Chetes en Puebla</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Rock y Pop</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-Músico de rock, principalmente reconocido por ser integrante de las bandas Zurdok, Vaquero y posteriormente inicia su carrera como solista.</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 20:00	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/salaforum">Sala Forum Espacio Polivalente</a> </span>
+	      			 <span style="padding-right: 5px;"><a href="/directorio/museoregionaldecholula">Museo Regional de Cholula</a> </span>
 					  <span style="font-style: italic;">
 		  Cholula				</span>
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 40</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 94</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -2408,9 +2673,9 @@ Músico de rock, principalmente reconocido por ser integrante de las bandas Zurd
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -2423,16 +2688,16 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/futuroextraviadoobradeteatro" title="Futuro Extraviado - Obra de Teatro">
+<a href="/eventos/proyecciondecinedesdelaultimavezquenosvimos" title="Proyección de Cine: Desde la Última Vez que Nos Vimos">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-12338616311727893652.jpg
+<img src="/eventoimage/poster/110x110/banner-2669226701730937144.jpg
 
 
 
 
 
 
-" alt="Futuro Extraviado - Obra de Teatro" width="110px" height="110px"> 
+" alt="Proyección de Cine: Desde la Última Vez que Nos Vimos" width="110px" height="110px"> 
 </a>
 
 
@@ -2440,21 +2705,21 @@ Jueves 07 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/futuroextraviadoobradeteatro" title="Futuro Extraviado - Obra de Teatro">                    
-Futuro Extraviado - Obra de Teatro</a>
+<a href="/eventos/proyecciondecinedesdelaultimavezquenosvimos" title="Proyección de Cine: Desde la Última Vez que Nos Vimos">                    
+Proyección de Cine: Desde la Última Vez que Nos Vimos</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Teatro</span>
+Cine</span>
 
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Disfruta esta obra de teatro de Alejandro Rivera. Asiste y pasa una tarde inolvidable. ¡Te esperamos!</p>
+Acompañamos y disfruta de las películas este Miércoles 06 de noviembre en la proyección. ¡Te esperamos!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 20:00 + fechas	
+	     Sáb 09 NOV
+ 16:00 + fechas	
 	      
 	      	
 		
@@ -2462,18 +2727,18 @@ Disfruta esta obra de teatro de Alejandro Rivera. Asiste y pasa una tarde inolvi
 	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
 		  <p style="width: 100%;float: left;padding-left:0px;">
 		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/teatromelpomene">Teatro Melpómene</a> </span>
+	      			 <span style="padding-right: 5px;"><a href="/directorio/cinematecaluisbunuel">Cinemateca Luis Buñuel</a> </span>
 					  <span style="font-style: italic;">
-		  Ánimas-Noria				</span>
+		  Centro Histórico				</span>
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 78</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 56</span>
 		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:block;">
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
 <ul class="star-rating medium-star">
-<li class="current-rating" style="width:100%;"></li>
+<li class="current-rating" style="width:0%;"></li>
 <li class="one-star">&nbsp;</li>
 <li class="one-star">&nbsp;</li>
 <li class="one-star">&nbsp;</li>
@@ -2482,8 +2747,6 @@ Disfruta esta obra de teatro de Alejandro Rivera. Asiste y pasa una tarde inolvi
 </ul>
 </span>
 </div>
-	 <span style="font-weight: 400;margin-bottom: 0px;float: right;padding-right: calc(100% - px);/* font-size: 0.9em; */padding-top: 5px;color: #36c;"><a href="/eventos/futuroextraviadoobradeteatro/comentarios">1 opinan</a></span>    
-	
 	
 	     
 		   </div>
@@ -2495,9 +2758,9 @@ Disfruta esta obra de teatro de Alejandro Rivera. Asiste y pasa una tarde inolvi
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -2510,16 +2773,16 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/giorgiosiladienpuebla" title="Giorgio Siladi en Puebla">
+<a href="/eventos/ofrendamusicalporlaorquestacuartodetono" title="Orquesta Cuarto de Tono en Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-4220169571729552979.jpg
+<img src="/eventoimage/poster/110x110/banner-11641532551730939745.jpg
 
 
 
 
 
 
-" alt="Giorgio Siladi en Puebla" width="110px" height="110px"> 
+" alt="Orquesta Cuarto de Tono en Puebla" width="110px" height="110px"> 
 </a>
 
 
@@ -2527,8 +2790,8 @@ Jueves 07 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/giorgiosiladienpuebla" title="Giorgio Siladi en Puebla">                    
-Giorgio Siladi en Puebla</a>
+<a href="/eventos/ofrendamusicalporlaorquestacuartodetono" title="Orquesta Cuarto de Tono en Puebla">                    
+Orquesta Cuarto de Tono en Puebla</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
@@ -2537,11 +2800,11 @@ Conciertos varios</span>
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Compositor y músico dominicano con más de 10 años de trayectoria, Giorgio Siladi comienza su proyecto solista con sonidos cercanos al pop, que te sumergen en una atmósfera nocturna y nostálgica. ¡Conoce su trabajo!</p>
+Puebla tiene rumbo y tiene resultados con el concierto "Orquesta Cuarto de Tono" Ofrenda musical. ¡Es tu oportunidad! ¡Te esperamos!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 20:00	
+	     Sáb 09 NOV
+ 17:30	
 	      
 	      	
 		
@@ -2549,7 +2812,7 @@ Compositor y músico dominicano con más de 10 años de trayectoria, Giorgio Sil
 	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
 		  <p style="width: 100%;float: left;padding-left:0px;">
 		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/elbreveespacio">El Breve Espacio Arte, Café &amp; Bar</a> </span>
+	      			 <span style="padding-right: 5px;"><a href="/directorio/centroculturalsantarosa">Centro Cultural Ex Convento de Santa...</a> </span>
 					  <span style="font-style: italic;">
 		  Centro Histórico				</span>
 	     
@@ -2580,9 +2843,9 @@ Compositor y músico dominicano con más de 10 años de trayectoria, Giorgio Sil
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -2595,38 +2858,208 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/cartelerabreveespaciopuebla" title="Cartelera Breve Espacio Puebla ">
+<a href="/eventos/muestradedanza" title="Muestra de Danza en Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-10419245371697408732.png
+<img src="/eventoimage/poster/110x110/banner-7417579041730845911.jpg
 
 
 
 
 
 
-" alt="Cartelera Breve Espacio Puebla " width="110px" height="110px"> 
+" alt="Muestra de Danza en Puebla" width="110px" height="110px"> 
 </a>
 
 
 </div>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
-<h3 style="width: 409px;font-size: 13px;">   
-<a href="/eventos/cartelerabreveespaciopuebla" title="Cartelera Breve Espacio Puebla ">                    
-Cartelera Breve Espacio Puebla </a>
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/muestradedanza" title="Muestra de Danza en Puebla">                    
+Muestra de Danza en Puebla</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Conciertos varios</span>
+Danza</span>
 
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Prográmate con los mejores evento en El Breve Puebla. Esta semana tenemos una agenda perfecta para todos nuestros públicos.</p>
+No te pierdas el Muestra de Danza Zomalli Tonatiuh La Furia del Sol, 36 aniversario. Este 9 de noviembre, a las 18:00 horas en el Patio de los Azulejos. ¡Disfruta de nuestro folclor!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 21:00 + fechas	
+	     Sáb 09 NOV
+ 18:00	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/patiodelosazulejos">Patio de los Azulejos</a> </span>
+					  <span style="font-style: italic;">
+		  Centro Histórico				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 42</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/20millasobradeteatro" title="20 Millas - Obra de Teatro">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-21463572211730141346.png
+
+
+
+
+
+
+" alt="20 Millas - Obra de Teatro" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/20millasobradeteatro" title="20 Millas - Obra de Teatro">                    
+20 Millas - Obra de Teatro</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Teatro, Musicales</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+La Compañía de Teatro "Inspiradores" presenta: 20 Millas "El Musical". Una obra original escrita por Rodrigo y Gerardo Balderas. ¡Te esperamos!</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 19:00	
+	      
+	      	
+		
+	      </p>
+	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
+		  <p style="width: 100%;float: left;padding-left:0px;">
+		 
+	      			 <span style="padding-right: 5px;"><a href="/directorio/upaep">UPAEP - Universidad Popular Autónoma...</a> </span>
+					  <span style="font-style: italic;">
+		  Juárez-La Paz				</span>
+	     
+		  </p>
+		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 89</span>
+		   
+			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
+<span class="inline-rating">
+<ul class="star-rating medium-star">
+<li class="current-rating" style="width:0%;"></li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+<li class="one-star">&nbsp;</li>
+</ul>
+</span>
+</div>
+	
+	     
+		   </div>
+</div><!-- eveDtl end -->
+</div>
+
+
+<div class="clear20"></div>
+<!-- row secand start -->
+<div class="getiFltr_cnt" style="display:none; cursor:default;">
+<div class="getiFltr_cnt_mid">
+<span class="rslt fright">18 de 25 eventos</span>
+<span class="title">               
+Sábado 09 DE Noviembre</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear10"></div>
+
+
+<div class="eveSrchRow">
+					
+
+<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
+                  
+<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
+<a href="/eventos/cositasdemujeresobradeteatro" title="Cositas de Mujeres - Obra de Teatro">
+<!--  // ##@##  -->
+<img src="/eventoimage/poster/110x110/banner-8052744681726674012.jpg
+
+
+
+
+
+
+" alt="Cositas de Mujeres - Obra de Teatro" width="110px" height="110px"> 
+</a>
+
+
+</div>
+</div><!-- imgCnt end -->
+<div class="eveDtl fleft" style="width: 410px;">
+<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
+<a href="/eventos/cositasdemujeresobradeteatro" title="Cositas de Mujeres - Obra de Teatro">                    
+Cositas de Mujeres - Obra de Teatro</a>
+</h3>
+
+<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
+Teatro</span>
+
+
+<div class="clear" style="padding: 0;height: .5px;"></div>
+<p style="padding-left: 0px;">
+Cositas de Mujeres llego para hablar de todo lo que no se habla y se ignora. No te pierdas esta obra cargada de humor, diversión y nostalgia, con anécdotas honestas, crudas y conmovedoras. ¡Te esperamos!</p>
+ <div class="clear" style="padding: 0;height: 1.5px;"></div>
+ <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
+	     Sáb 09 NOV
+ 19:00	
 	      
 	      	
 		
@@ -2640,7 +3073,7 @@ Prográmate con los mejores evento en El Breve Puebla. Esta semana tenemos una a
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 287</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 27</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -2665,9 +3098,9 @@ Prográmate con los mejores evento en El Breve Puebla. Esta semana tenemos una a
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">12 de 12 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Jueves 07 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -2680,16 +3113,16 @@ Jueves 07 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/despistaosenpuebla" title="Despistaos en Puebla">
+<a href="/eventos/dreadenpuebla" title="DREAD en Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-5807156251727712336.png
+<img src="/eventoimage/poster/110x110/banner-20915703691726856559.png
 
 
 
 
 
 
-" alt="Despistaos en Puebla" width="110px" height="110px"> 
+" alt="DREAD en Puebla" width="110px" height="110px"> 
 </a>
 
 
@@ -2697,8 +3130,8 @@ Jueves 07 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/despistaosenpuebla" title="Despistaos en Puebla">                    
-Despistaos en Puebla</a>
+<a href="/eventos/dreadenpuebla" title="DREAD en Puebla">                    
+DREAD en Puebla</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
@@ -2707,181 +3140,11 @@ Rock y Pop</span>
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Con 10 discos de estudio, interminables giras en España y Latinoamérica , más de 1.500 conciertos a sus espaldas la banda española Despistaos llega a Puebla. ¡Te esperamos!</p>
+La banda que está arrasando con su brutal sonido y llevando el nu metal mexicano a otro nivel se prepara para dar uno de los shows más intensos en nuestra ciudad. ¡Te esperamos!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Jue 07 NOV
- 21:00	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/studio803">Beat 803</a> </span>
-					  <span style="font-style: italic;">
-		  Centro Histórico				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 57</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:block; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
-<span class="title">               
-Viernes 08 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/truxgohackingarenaenpuebla" title="Truxgo Hacking Arena en Puebla">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-11149408941728410808.png
-
-
-
-
-
-
-" alt="Truxgo Hacking Arena en Puebla" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/truxgohackingarenaenpuebla" title="Truxgo Hacking Arena en Puebla">                    
-Truxgo Hacking Arena en Puebla</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Conferencias y presentaciones, Concursos</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-Reúne a los mejores hackers éticos, profesionales de la seguridad y entusiastas de la tecnología en un entorno competitivo diseñado para poner a prueba tus límites.</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
- 08:00	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/planetariopuebla">Planetario Germán Martínez Hidalgo</a> </span>
-					  <span style="font-style: italic;">
-		  Fuertes-Loreto-Estadio				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 73</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
-<span class="title">               
-Viernes 08 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/tallerdebordadoconrelieveestuchara" title="Taller de Bordado con Relieve - Estuchera">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-17272816541730768244.png
-
-
-
-
-
-
-" alt="Taller de Bordado con Relieve - Estuchera" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="width: 409px;font-size: 13px;">   
-<a href="/eventos/tallerdebordadoconrelieveestuchara" title="Taller de Bordado con Relieve - Estuchera">                    
-Taller de Bordado con Relieve - Estuchera</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Talleres y manualidades</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-Te invitamos a bordar nuestro nombre en una bolsita para maquillaje o estuchera. Ven a crear con nosotros en este taller de manualidad que no te puedes perder. ¡Te esperamos!</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
- 10:00-13:00	
+	     Sáb 09 NOV
+ 19:00	
 	      
 	      	
 		
@@ -2894,94 +3157,7 @@ Te invitamos a bordar nuestro nombre en una bolsita para maquillaje o estuchera.
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 79</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:block;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:100%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	 <span style="font-weight: 400;margin-bottom: 0px;float: right;padding-right: calc(100% - px);/* font-size: 0.9em; */padding-top: 5px;color: #36c;"><a href="/eventos/tallerdebordadoconrelieveestuchara/comentarios">1 opinan</a></span>    
-	
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
-<span class="title">               
-Viernes 08 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/clubdelecturamexicanasquehicieronhistoria" title="Club de Lectura: Mexicanas que Hicieron Historia">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-7860958661730766620.jpg
-
-
-
-
-
-
-" alt="Club de Lectura: Mexicanas que Hicieron Historia" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/clubdelecturamexicanasquehicieronhistoria" title="Club de Lectura: Mexicanas que Hicieron Historia">                    
-Club de Lectura: Mexicanas que Hicieron Historia</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Conferencias y presentaciones</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-No te pierdas de este club de lectura. Te esperamos los días 08, 15, 22 y 29 de noviembre ¡No faltes!</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
- 16:30 + fechas	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/sanpedromuseodearte">San Pedro Museo de Arte - Museo de Arte...</a> </span>
-					  <span style="font-style: italic;">
-		  Centro Histórico				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 98</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 35</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -3006,9 +3182,9 @@ No te pierdas de este club de lectura. Te esperamos los días 08, 15, 22 y 29 de
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Viernes 08 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -3021,16 +3197,16 @@ Viernes 08 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/conversatorioelartepopularpoblanocambiosyperspectivas" title="Conversatorio: El Arte Popular Poblano Cambios y Perspectivas">
+<a href="/eventos/costadeambarenpuebla" title="Costa de Ámbar en Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-7338530711730766763.jpg
+<img src="/eventoimage/poster/110x110/banner-14851871071723837845.png
 
 
 
 
 
 
-" alt="Conversatorio: El Arte Popular Poblano Cambios y Perspectivas" width="110px" height="110px"> 
+" alt="Costa de Ámbar en Puebla" width="110px" height="110px"> 
 </a>
 
 
@@ -3038,21 +3214,21 @@ Viernes 08 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/conversatorioelartepopularpoblanocambiosyperspectivas" title="Conversatorio: El Arte Popular Poblano Cambios y Perspectivas">                    
-Conversatorio: El Arte Popular Poblano Cambios y Perspectivas</a>
+<a href="/eventos/costadeambarenpuebla" title="Costa de Ámbar en Puebla">                    
+Costa de Ámbar en Puebla</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Conferencias y presentaciones</span>
+Conciertos varios</span>
 
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Únete a nosotros para explorar la evolución del arte popular en Puebla y sus nuevas perspectivas. Nos vemos el 8 de noviembre a las 17:30 en el Museo de Arte Popular Ex Convento de Santa Rosa ¡No faltes!</p>
+Costa de Ámbar vuelve full band a Puebla con su "De Calma y Tempestad Tour", este nuevo show es un viaje a través de todas esas canciones que evocan tus sentimientos más profundos. ¡No te lo puedes perder!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
- 17:30	
+	     Sáb 09 NOV
+ 20:00	
 	      
 	      	
 		
@@ -3060,13 +3236,12 @@ Conferencias y presentaciones</span>
 	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
 		  <p style="width: 100%;float: left;padding-left:0px;">
 		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/centroculturalsantarosa">Centro Cultural Ex Convento de Santa...</a> </span>
-					  <span style="font-style: italic;">
-		  Centro Histórico				</span>
+	      		  <span style="font-style: italic;">
+		  				</span>
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 81</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 62</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -3091,9 +3266,9 @@ Conferencias y presentaciones</span>
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Viernes 08 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -3106,16 +3281,16 @@ Viernes 08 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/proyecciondedocumentalpueblasinfoniainaudible" title="Proyección de Documental: Puebla, Sinfonía Inaudible">
+<a href="/eventos/ederriveraenforoconde" title="Eder Rivera en Puebla">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-20817069861730766436.jpg
+<img src="/eventoimage/poster/110x110/banner-11167028511727131747.jpg
 
 
 
 
 
 
-" alt="Proyección de Documental: Puebla, Sinfonía Inaudible" width="110px" height="110px"> 
+" alt="Eder Rivera en Puebla" width="110px" height="110px"> 
 </a>
 
 
@@ -3123,93 +3298,8 @@ Viernes 08 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/proyecciondedocumentalpueblasinfoniainaudible" title="Proyección de Documental: Puebla, Sinfonía Inaudible">                    
-Proyección de Documental: Puebla, Sinfonía Inaudible</a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Cine</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-Acompáñanos a esta proyección de documental. Una mirada profunda a la esencia de Puebla que no puedes dejar pasar. ¡Incluido con tu boleto de acceso!</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
- 17:30	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/museointernacionaldelbarroco">Museo Internacional del Barroco</a> </span>
-					  <span style="font-style: italic;">
-		  Angelópolis				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 119</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
-<span class="title">               
-Viernes 08 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/graduaciondelaboratoriodestandup" title="Graduación de Laboratorio de Stand Up">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-3433435501730751646.jpg
-
-
-
-
-
-
-" alt="Graduación de Laboratorio de Stand Up" width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="font-weight:normal;width: 409px;font-size: 13px;">   
-<a href="/eventos/graduaciondelaboratoriodestandup" title="Graduación de Laboratorio de Stand Up">                    
-Graduación de Laboratorio de Stand Up</a>
+<a href="/eventos/ederriveraenforoconde" title="Eder Rivera en Puebla">                    
+Eder Rivera en Puebla</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
@@ -3218,11 +3308,11 @@ Comedia</span>
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-Resultado de todo lo que vivimos en el Laboratorio de Stand Up, finalmente tendremos nuestro desenlace en este festejo de graduación para todos los participantes. ¡No te lo pierdas!</p>
+Disfruta del stand up de este divertido comediante. ¡No te lo pierdas!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
- 18:00	
+	     Sáb 09 NOV
+ 20:00	
 	      
 	      	
 		
@@ -3236,7 +3326,7 @@ Resultado de todo lo que vivimos en el Laboratorio de Stand Up, finalmente tendr
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 94</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 34</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -3261,9 +3351,9 @@ Resultado de todo lo que vivimos en el Laboratorio de Stand Up, finalmente tendr
 <!-- row secand start -->
 <div class="getiFltr_cnt" style="display:none; cursor:default;">
 <div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
+<span class="rslt fright">18 de 25 eventos</span>
 <span class="title">               
-Viernes 08 DE Noviembre</span>
+Sábado 09 DE Noviembre</span>
 <div class="clear"></div>
 </div>
 </div>
@@ -3276,16 +3366,16 @@ Viernes 08 DE Noviembre</span>
 <div class="imgCnt fleft" style="width: 112px;height: 112px;">  
                   
 <div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/encerradossensacionesaciegasobradeteatro" title="Encerrados: Sensaciones a Ciegas - Obra de Teatro">
+<a href="/eventos/entrecrucesyrecuerdosobradeteatro" title="Entre Cruces y Recuerdos - Obra de Teatro">
 <!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-15076573291730135623.png
+<img src="/eventoimage/poster/110x110/banner-10025685721730136031.png
 
 
 
 
 
 
-" alt="Encerrados: Sensaciones a Ciegas - Obra de Teatro" width="110px" height="110px"> 
+" alt="Entre Cruces y Recuerdos - Obra de Teatro" width="110px" height="110px"> 
 </a>
 
 
@@ -3293,8 +3383,8 @@ Viernes 08 DE Noviembre</span>
 </div><!-- imgCnt end -->
 <div class="eveDtl fleft" style="width: 410px;">
 <h3 style="width: 409px;font-size: 13px;">   
-<a href="/eventos/encerradossensacionesaciegasobradeteatro" title="Encerrados: Sensaciones a Ciegas - Obra de Teatro">                    
-Encerrados: Sensaciones a Ciegas - Obra de Teatro</a>
+<a href="/eventos/entrecrucesyrecuerdosobradeteatro" title="Entre Cruces y Recuerdos - Obra de Teatro">                    
+Entre Cruces y Recuerdos - Obra de Teatro</a>
 </h3>
 
 <span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
@@ -3303,10 +3393,10 @@ Teatro</span>
 
 <div class="clear" style="padding: 0;height: .5px;"></div>
 <p style="padding-left: 0px;">
-En un concepto diferente a lo acostumbrado para la compañía llega Encerrados - Sensaciones a Ciegas, donde el espectador es parte de la historia, así que ingresa con los ojos vendados y las emociones están a flor de piel.</p>
+Ven a disfrutar de esta gran obra dirigida por Adonai Palacios. ¡Te esperamos!</p>
  <div class="clear" style="padding: 0;height: 1.5px;"></div>
  <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
+	     Sáb 09 NOV
  20:00 + fechas	
 	      
 	      	
@@ -3321,92 +3411,7 @@ En un concepto diferente a lo acostumbrado para la compañía llega Encerrados -
 	     
 		  </p>
 		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 102</span>
-		   
-			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
-<span class="inline-rating">
-<ul class="star-rating medium-star">
-<li class="current-rating" style="width:0%;"></li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-<li class="one-star">&nbsp;</li>
-</ul>
-</span>
-</div>
-	
-	     
-		   </div>
-</div><!-- eveDtl end -->
-</div>
-
-
-<div class="clear20"></div>
-<!-- row secand start -->
-<div class="getiFltr_cnt" style="display:none; cursor:default;">
-<div class="getiFltr_cnt_mid">
-<span class="rslt fright">8 de 10 eventos</span>
-<span class="title">               
-Viernes 08 DE Noviembre</span>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear10"></div>
-
-
-<div class="eveSrchRow">
-					
-
-<div class="imgCnt fleft" style="width: 112px;height: 112px;">  
-                  
-<div class="global_imgCnt" style="overflow: visible;width: 110px;">  
-<a href="/eventos/fuerzaregidaenpuebla" title="Fuerza Regida en Puebla ">
-<!--  // ##@##  -->
-<img src="/eventoimage/poster/110x110/banner-13067315521718044545.png
-
-
-
-
-
-
-" alt="Fuerza Regida en Puebla " width="110px" height="110px"> 
-</a>
-
-
-</div>
-</div><!-- imgCnt end -->
-<div class="eveDtl fleft" style="width: 410px;">
-<h3 style="width: 409px;font-size: 13px;">   
-<a href="/eventos/fuerzaregidaenpuebla" title="Fuerza Regida en Puebla ">                    
-Fuerza Regida en Puebla </a>
-</h3>
-
-<span class="eve_desCol orange" style="width: 100%;padding-left: 0px;font-size: 12px;">
-Conciertos varios</span>
-
-
-<div class="clear" style="padding: 0;height: .5px;"></div>
-<p style="padding-left: 0px;">
-Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana urbana y llega a Puebla para pasar una noche muy mexicana, con su "Pero No te Enamores" Tour</p>
- <div class="clear" style="padding: 0;height: 1.5px;"></div>
- <p class="black-title padding-bottom" style="width: 100%;float: left;color: #000;padding-left:0px;">
-	     Vie 08 NOV
- 21:00	
-	      
-	      	
-		
-	      </p>
-	 <div class="clear" style="padding: 0;height: .5px;"></div>	  
-		  <p style="width: 100%;float: left;padding-left:0px;">
-		 
-	      			 <span style="padding-right: 5px;"><a href="/directorio/centrodeespectaculospuebla">Auditorio GNP Seguros - Antes Acrópolis</a> </span>
-					  <span style="font-style: italic;">
-		  Fuertes-Loreto-Estadio				</span>
-	     
-		  </p>
-		  <div class="gray-title padding-bottom" style="width: calc(100% - 1px);padding-top: 5px;font-size: 12px;color: #999;">
-		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 317</span>
+		  <span style="width: 150px;float: left;padding-top: 7px;"> Visitas en 7 días: 145</span>
 		   
 			<div class="fleft str_rat" style="margin: 5px 0 2px 5px;float: right; display:none;">
 <span class="inline-rating">
@@ -3438,8 +3443,8 @@ Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana 
 <div class="logoRowtwo_scl logo_scl_space">              
 
 <div class="global_imgCnt" style="width:80px;"> 
-<a href="/directorio/zontlealimentos" title="Zontle Alimentos - Procesadora de especias y sabores del campo de la Mixteca">
-<img src="/companyimage/banner/medium/xvga_banner-3988051751721853223.png" alt="Zontle Alimentos - Procesadora de especias y sabores del campo de la Mixteca" width="80px" height="50px"> 													<!--  // ##@##  -->
+<a href="/directorio/parqueindustrialresurreccion" title="Parque Industrial Resurrección">
+<img src="/companyimage/banner/medium/xvga_banner-2104106361728005735.png" alt="Parque Industrial Resurrección" width="80px" height="50px"> 													<!--  // ##@##  -->
 </a>
 
 </div>
@@ -3448,8 +3453,8 @@ Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana 
 <div class="logoRowtwo_scl logo_scl_space">              
 
 <div class="global_imgCnt" style="width:80px;"> 
-<a href="/directorio/opticaeloptometro" title="Óptica El Optómetro">
-<img src="/companyimage/banner/medium/xvga_banner-19700961621726170301.jpg" alt="Óptica El Optómetro" width="80px" height="50px"> 													<!--  // ##@##  -->
+<a href="/directorio/leobardorodriguezjuarez" title="Leobardo Rodríguez Juárez">
+<img src="/companyimage/banner/medium/xvga_banner-21237882031600835992.jpg" alt="Leobardo Rodríguez Juárez" width="79px" height="50px"> 													<!--  // ##@##  -->
 </a>
 
 </div>
@@ -3458,8 +3463,8 @@ Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana 
 <div class="logoRowtwo_scl logo_scl_space">              
 
 <div class="global_imgCnt" style="width:80px;"> 
-<a href="/directorio/asesoriapatrimonialplanesdeahorroysegurosenpuebla" title="Asesoría Patrimonial, Planes de Ahorro y Seguros en Puebla">
-<img src="/companyimage/banner/medium/xvga_banner-16435480681589248319.png" alt="Asesoría Patrimonial, Planes de Ahorro y Seguros en Puebla" width="79px" height="50px"> 													<!--  // ##@##  -->
+<a href="/directorio/colegioeuropeo" title="Colegio Europeo">
+<img src="/companyimage/banner/medium/banner-6583946151447273843.png" alt="Colegio Europeo" width="80px" height="50px"> 													<!--  // ##@##  -->
 </a>
 
 </div>
@@ -3468,8 +3473,8 @@ Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana 
 <div class="logoRowtwo_scl logo_scl_space">              
 
 <div class="global_imgCnt" style="width:80px;"> 
-<a href="/directorio/casonasanjeronimo" title="Casona San Jeronimo">
-<img src="/companyimage/banner/medium/xvga_banner-17693181031725924928.jpg" alt="Casona San Jeronimo" width="79px" height="50px"> 													<!--  // ##@##  -->
+<a href="/directorio/brokershipotecarios" title="Brokers Hipotecarios">
+<img src="/companyimage/banner/medium/xvga_banner-6002207321728067736.jpg" alt="Brokers Hipotecarios" width="79px" height="50px"> 													<!--  // ##@##  -->
 </a>
 
 </div>
@@ -3478,8 +3483,8 @@ Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana 
 <div class="logoRowtwo_scl logo_scl_space">              
 
 <div class="global_imgCnt" style="width:80px;"> 
-<a href="/directorio/gatosluneros" title="Gatos Luneros">
-<img src="/companyimage/banner/medium/xvga_banner-5412514931721691599.png" alt="Gatos Luneros" width="80px" height="50px"> 													<!--  // ##@##  -->
+<a href="/directorio/imaserefaccionesamericanasynacionales" title="Imase - Refacciones Americanas y Nacionales">
+<img src="/companyimage/banner/medium/xvga_banner-16105205991722370418.png" alt="Imase - Refacciones Americanas y Nacionales" width="80px" height="50px"> 													<!--  // ##@##  -->
 </a>
 
 </div>
@@ -3488,8 +3493,8 @@ Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana 
 <div class="logoRowtwo_scl ">              
 
 <div class="global_imgCnt" style="width:80px;"> 
-<a href="/directorio/lumimaterialelectrico" title="Lumi - Material Eléctrico">
-<img src="/companyimage/banner/medium/xvga_banner-13699304131727115857.jpg" alt="Lumi - Material Eléctrico" width="79px" height="50px"> 													<!--  // ##@##  -->
+<a href="/directorio/nissanserdanpuebla" title="NISSAN SERDÁN PUEBLA">
+<img src="/companyimage/banner/medium/xvga_banner-14769733341725394399.png" alt="NISSAN SERDÁN PUEBLA" width="80px" height="50px"> 													<!--  // ##@##  -->
 </a>
 
 </div>
@@ -3513,19 +3518,19 @@ Fuerza Regida, una de las bandas de mayor reconocimiento en la música mexicana 
 
     
 <div class="bodyContainerRight">
-<div class="title fleft"><p style="width:192px;"><a href="/directorio/centrodecapacitacionagricolaydenegocios" title="Centro de Capacitación Agrícola y de Negocios">Centro de Capacitación Agrícola y de Negocios</a></p><div class="clear5"></div></div>
+<div class="title fleft"><p style="width:192px;"><a href="/directorio/soldeagaves" title="Sol de Agaves">Sol de Agaves</a></p><div class="clear5"></div></div>
 <div class="fright">
 <div class="adCnt">            
 <div class="global_imgCnt" style="width:170px;"> 
-<a href="/directorio/centrodecapacitacionagricolaydenegocios" title="Centro de Capacitación Agrícola y de Negocios">
-<img src="/companyimage/logo/thumb172/4k_logo-15945149911723149118.png" alt="Centro de Capacitación Agrícola y de Negocios" width="430px" height="430px">
+<a href="/directorio/soldeagaves" title="Sol de Agaves">
+<img src="/companyimage/logo/thumb172/4k_logo-19897091491725756666.png" alt="Sol de Agaves" width="430px" height="430px">
 </a>
 
 </div>
 </div>
 <div class="clear5"></div>
 <div class="ad_desCnt2" style="background:#fff;"> 
-Espacio dedicado a la capacitación de productores agrícolas, comerciantes y grupos de productores para la transformación de productos. 
+Restaurante mexicano especializado en cortes a la parrilla. 
 </div>
 </div>
 <div class="clear20"></div>
@@ -3583,9 +3588,9 @@ Recuerda la clase no tiene costo,...
 
 
 <div class="com6_leftImg_cnt" style="padding 0px">
-<a href="/directorio/centrocomercialparquepuebla">
+<a href="/directorio/ayuntamientodepuebla">
 <div class="global_imgCnt" style="width:170px;"> 
-<img src="/companyimage/banner/large/xvga_banner-14563747541683907341.png" alt="Centro Comercial Parque Puebla" title="Centro Comercial Parque Puebla" width="169px" height="70px">
+<img src="/companyimage/banner/large/xvga_banner-20331995491730221973.png" alt="H. Ayuntamiento de Puebla - Administración 2024-2027" title="H. Ayuntamiento de Puebla - Administración 2024-2027" width="169px" height="70px">
 
 </div></a>	  
 </div>
@@ -3593,16 +3598,16 @@ Recuerda la clase no tiene costo,...
 
 <div class="com6_leftImg_cnt">
 <div class="logoRowtwo gap"> 
-<a href="/directorio/nikoltiendaecologica">
+<a href="/directorio/drvictormanueltopeteclinicanapro">
 <div class="global_imgCnt" style="width:80px;"> 
-<img src="/companyimage/banner/medium/xvga_banner-19446516181722700685.png" alt="Nikol - Tienda Ecológica" title="Nikol - Tienda Ecológica" width="80px" height="50px">
+<img src="/companyimage/banner/medium/xvga_banner-16984479651604454773.jpg" alt="Dr. Víctor Manuel Topete Camarena - Clínica NaPro" title="Dr. Víctor Manuel Topete Camarena - Clínica NaPro" width="79px" height="50px">
 
 </div></a>	
 </div>
 <div class="logoRowtwo">
-<a href="/directorio/bullsfit">
+<a href="/directorio/workushumanassets">
 <div class="global_imgCnt" style="width:80px;"> 
-<img src="/companyimage/banner/medium/xvga_banner-6101347111722280209.png" alt="BullsFit" title="BullsFit" width="80px" height="50px">
+<img src="/companyimage/banner/medium/xvga_banner-2751165441728357090.png" alt="Workus Human Assets" title="Workus Human Assets" width="79px" height="50px">
 
 </div></a>	
 </div>
@@ -3666,12 +3671,14 @@ function MM_swapImage() { //v3.0
 
 <div style="margin:0 auto 0 5px; text-align:center;" class="pageinationCnt">
 <div class="fleft">
-<div class="pagi_arr_lft"></div></div>
-<div class="fleft paginationText"> 1 a 20 de 209
+<a href="?ext=html&amp;page=1" style="text-decoration: none;">
+<div class="pagi_arr_lft"></div></a>
+</div>
+<div class="fleft paginationText"> 21 a 40 de 209
 </div>
 <div class="fleft"> 
 	
-<a href="?ext=html&amp;page=2" style="text-decoration: none;">
+<a href="?ext=html&amp;page=3" style="text-decoration: none;">
 <div class="pagi_arr_rigt"></div></a>
 </div>
 </div>
@@ -4118,7 +4125,7 @@ twq('track','PageView');
 </script>
  End Twitter universal website tag code -->
 <!--Pixel Code -->
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8def2f7e9f0b6c3b',t:'MTczMTAwMjAzNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8def7f377b9fe95e',t:'MTczMTAwNTMwMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
 
-<script type="text/javascript" src="/js/ui/ui.core.js"></script><script type="text/javascript" src="/js/popup.js"></script><script type="text/javascript" src="/js/datepicker.js"></script><script type="text/javascript" src="/js/jquery.lightbox-0.5.js"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul><iframe allow="join-ad-interest-group" data-tagging-id="G-T3M8SE43DT" data-load-time="1731002021066" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-T3M8SE43DT&amp;gacid=654689109.1731002021&amp;gtm=45je4au0v9165517208za200&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101823848~101925629&amp;z=1435643979" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="G-SDMHJ1ZB93" data-load-time="1731002021270" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-SDMHJ1ZB93&amp;gacid=654689109.1731002021&amp;gtm=45je4au0v9122382612z89165513284za200zb9165513284&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101823848~101925629&amp;z=731070191" style="display: none; visibility: hidden;"></iframe><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div></body></html>
+<script type="text/javascript" src="/js/ui/ui.core.js"></script><script type="text/javascript" src="/js/popup.js"></script><script type="text/javascript" src="/js/datepicker.js"></script><iframe allow="join-ad-interest-group" data-tagging-id="G-T3M8SE43DT" data-load-time="1731005286716" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-T3M8SE43DT&amp;gacid=329340459.1731005287&amp;gtm=45je4au0v9165517208za200zb9165513284&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101823848~101925629&amp;z=728708595" style="display: none; visibility: hidden;"></iframe><script type="text/javascript" src="/js/jquery.lightbox-0.5.js"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul><iframe allow="join-ad-interest-group" data-tagging-id="G-SDMHJ1ZB93" data-load-time="1731005287032" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-SDMHJ1ZB93&amp;gacid=329340459.1731005287&amp;gtm=45je4au0v9122382612z89165513284za200zb9165513284&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101823848~101925629&amp;z=635697139" style="display: none; visibility: hidden;"></iframe><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div></body></html>
 No se encontraron publicaciones para guardar.
