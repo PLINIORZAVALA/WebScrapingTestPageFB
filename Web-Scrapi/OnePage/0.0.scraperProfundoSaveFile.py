@@ -49,7 +49,7 @@ def save_page_source(driver, filename='page_source.txt'):
 
 def main():
     # URL de la página que queremos extraer
-    url = 'https://www.todopuebla.com/eventos?ext=html&page=2'
+    url = 'https://es.wikipedia.org/wiki/Cifrado_de_extremo_a_extremo'
     
     driver = create_driver()
 
