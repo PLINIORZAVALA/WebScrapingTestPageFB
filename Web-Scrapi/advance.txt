@@ -1,0 +1,4 @@
+Avance:
+    - Se realizo la extracccion de los datos importante pero no esta  ecajando bien en el excel que retorna
+Avance posterior:
+    - Realizar que encajen bine los datos asi poder consumir
