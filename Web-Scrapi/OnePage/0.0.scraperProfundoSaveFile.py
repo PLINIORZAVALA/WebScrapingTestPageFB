@@ -9,7 +9,7 @@ from fake_useragent import UserAgent
 import undetected_chromedriver as uc
 
 # ---------------------- Funciones ----------------------
-
+ 
 def create_driver():
     ua = UserAgent()
     user_agent = ua.random
