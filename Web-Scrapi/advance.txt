@@ -6,4 +6,4 @@ Avance posterior:
  - Obtencion de todas las paginas web luego de hacer scraping code 0.1.procesoProfunTXT
  - Se obtiene la ruta de las paginas web y se almacena en un excel con el nombre de OnePage/0.1.procesProfundoTXT.py
  - Despues de eso lo que se busca es hacer Scraping de cada uno de los urls y almacenar dentro de esta carpeta resultAllPagesExcel donde de cada url se almacenara sus datos se almacenara en distintos archivo TXT 
- - 
+ - Añadimos para que los datos que se lamcene se muestre enumerodos cada que se realiza el proceso

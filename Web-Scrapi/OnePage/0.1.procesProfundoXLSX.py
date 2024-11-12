@@ -66,7 +66,7 @@ def scrape_urls_from_excel(input_excel, output_folder):
     driver = create_driver()
 
     # Iterar sobre cada URL en el archivo Excel
-    for url in urls:
+    for idx, url in enumerate(urls, start=1):  # Añadimos un índice que comienza desde 1
         print(f"Procesando URL: {url}")
         try:
             # Cargar la página y desplazarse hacia abajo para cargar contenido dinámico
@@ -75,7 +75,7 @@ def scrape_urls_from_excel(input_excel, output_folder):
 
             # Formatear la URL para usarla como nombre de archivo (reemplazar caracteres no válidos)
             valid_filename = re.sub(r'[\\/*?:"<>|]', '_', url)  # Reemplaza caracteres no válidos con '_'
-            filename = f"{output_folder}/{valid_filename}.txt"
+            filename = f"{output_folder}/{idx}_{valid_filename}.txt"  # Añadimos la enumeración al nombre del archivo
             
             # Guardar el HTML de la página en un archivo de texto
             save_page_source(driver, filename)
