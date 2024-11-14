@@ -78,7 +78,7 @@ def close_driver(driver):
 
 def main():
     # Redirigir la salida de consola a un archivo de texto
-    with open('OnePage/0.0.ScrapeoProfundo.txt', 'w', encoding='utf-8') as file:
+    with open('0.0.ScrapeoProfundo/0.0.ScrapeoProfundo.txt', 'w', encoding='utf-8') as file:
         # Guardar la salida de `print()` en el archivo
         sys.stdout = file
 

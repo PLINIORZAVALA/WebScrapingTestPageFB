@@ -26,7 +26,7 @@ def save_urls_to_excel(urls, output_path):
 
 def main():
     # Ruta del archivo de entrada (archivo de texto)
-    input_file_path = 'OnePage/0.0.ScrapeoProfundo.txt'
+    input_file_path = '0.0.ScrapeoProfundo/0.0.ScrapeoProfundo.txt'
     
     # Ruta del archivo de salida (archivo de Excel)
     output_file_path = '0.1.excelResultProfundo/0.1.urls_extraidas.xlsx'
