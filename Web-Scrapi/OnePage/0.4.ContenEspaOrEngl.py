@@ -2,7 +2,7 @@ import os
 from langdetect import detect
 
 # Ruta de entrada (donde están los archivos con el contenido extraído)
-input_dir = 'salida_txt_contenido_extraido'
+input_dir = '0.3.salida_txt_contenido_extraido'
 
 # Rutas de salida para los documentos en español e inglés
 output_dir_spanish = '0.4.salida_txt_espanol'

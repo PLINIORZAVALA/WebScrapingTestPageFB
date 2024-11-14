@@ -3,7 +3,7 @@ import re
 from bs4 import BeautifulSoup
 
 # Ruta de entrada (donde están los archivos originales con el HTML completo)
-input_dir = 'salida_txtDelExceldeURLs'
+input_dir = '0.2.salida_txtDelExceldeURLs'
 
 # Ruta de salida (donde se guardarán los archivos con solo el texto visible)
 output_dir = '0.3.salida_txt_contenido_extraido'

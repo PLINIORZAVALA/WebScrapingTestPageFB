@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 from fake_useragent import UserAgent
 import re
@@ -22,7 +22,7 @@ def create_driver():
     options = webdriver.ChromeOptions()
     options.add_argument(f'user-agent={user_agent}')
     options.add_argument('--disable-blink-features=AutomationControlled')
-    options.add_argument('--headless')  # Asegurarse de que el navegador esté en modo headless
+    options.add_argument('--headless')  # Navegador en modo headless
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
 
@@ -35,14 +35,13 @@ def create_driver():
 
 def load_page(driver, url):
     driver.get(url)
-    time.sleep(random.uniform(2, 5))  # Esperar un poco para que la página cargue
+    time.sleep(random.uniform(2, 5))  # Espera para cargar la página
 
 def wait_for_element(driver, xpath, timeout=20):
     try:
         WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH, xpath)))
     except TimeoutException:
         print(f"Elemento no encontrado dentro del tiempo esperado para XPath: {xpath}")
-        print(driver.page_source)  # Imprimir el HTML de la página para diagnosticar
 
 def scroll_to_load_more(driver):
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -74,14 +73,14 @@ def create_safe_filename(url, index):
     # Reemplazar caracteres que no son válidos en nombres de archivos
     safe_url = re.sub(r'[:/\\?=<>|"*]', '_', url)
     # Crear el nombre del archivo con el índice y la URL limpia
-    file_name = f"{index+1}_{safe_url}.txt"
+    file_name = f"{index+1}_NR_{safe_url}.txt"#----------------------->MODIFICACIÓN DE NOMBRE
     return file_name
 
 # ---------------------- Código Principal ----------------------
 
 def process_urls():
     # Leer el archivo de Excel con las URLs
-    df = pd.read_excel('0.1.excelResultProfundo/0.0.urls_extraidas copy.xlsx')
+    df = pd.read_excel('0.1.excelResultProfundo/0.1.urls_extraidas.xlsx')
 
     # Crear el driver
     driver = create_driver()
@@ -107,7 +106,7 @@ def process_urls():
                 # Obtener el código HTML completo de la página
                 page_source = driver.page_source
 
-                # Crear el nombre del archivo a partir de la URL completa y el índice
+                # Crear el nombre del archivo con el índice y la URL limpia
                 file_name = create_safe_filename(url, index)
 
                 # Ruta completa del archivo de salida

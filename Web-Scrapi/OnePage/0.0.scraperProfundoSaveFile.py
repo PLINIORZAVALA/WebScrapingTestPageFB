@@ -85,7 +85,7 @@ def main():
         driver = create_driver()
 
         try:
-            url = 'https://es.wikipedia.org/wiki/Cifrado_de_extremo_a_extremo'
+            url = 'https://es.wikipedia.org/wiki/Drosera_indica#:~:text=Esta%20especie%20solo%20se%20reproduce,r%C3%A1pido%20a%20medida%20que%20crecen.'
             load_page(driver, url)
 
             # Esperar y obtener descripciones de las publicaciones
