@@ -81,13 +81,13 @@ def create_safe_filename(url, index):
 
 def process_urls():
     # Leer el archivo de Excel con las URLs
-    df = pd.read_excel('excelResultProfundo/0.0.urls_extraidas copy.xlsx')
+    df = pd.read_excel('0.1.excelResultProfundo/0.0.urls_extraidas copy.xlsx')
 
     # Crear el driver
     driver = create_driver()
 
     # Ruta de salida donde se guardará el archivo de texto
-    output_dir = 'salida_txtDelExceldeURLs'  # Cambia esta ruta según tus necesidades
+    output_dir = '0.2.salida_txtDelExceldeURLs'  # Cambia esta ruta según tus necesidades
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 

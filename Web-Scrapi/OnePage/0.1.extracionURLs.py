@@ -29,7 +29,7 @@ def main():
     input_file_path = 'OnePage/0.0.ScrapeoProfundo.txt'
     
     # Ruta del archivo de salida (archivo de Excel)
-    output_file_path = 'excelResultProfundo/0.0.urls_extraidas.xlsx'
+    output_file_path = '0.1.excelResultProfundo/0.1.urls_extraidas.xlsx'
     
     # Extraer URLs del archivo sin repeticiones
     urls = extract_urls_from_file(input_file_path)

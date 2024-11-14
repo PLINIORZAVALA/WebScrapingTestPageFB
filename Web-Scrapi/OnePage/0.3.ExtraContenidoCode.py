@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 input_dir = 'salida_txtDelExceldeURLs'
 
 # Ruta de salida (donde se guardarán los archivos con solo el texto visible)
-output_dir = 'salida_txt_contenido_extraido'
+output_dir = '0.3.salida_txt_contenido_extraido'
 
 # Crear la carpeta de salida si no existe
 if not os.path.exists(output_dir):
